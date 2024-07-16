@@ -1,0 +1,2 @@
+## Descripción General:
+Aplicativo web bancario  que permite a los usuarios gestionar sus finanzas personales de manera eficiente. Los usuarios pueden realizar transferencias, depósitos y retiros, así como ver el historial detallado de todas sus transacciones.
